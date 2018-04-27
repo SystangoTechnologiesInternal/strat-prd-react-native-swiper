@@ -1,28 +1,27 @@
 {
-  "_from": "react-native-swiper",
+  "_from": "git+https://github.com/SystangoTechnologiesInternal/strat-prd-react-native-swiper.git",
   "_id": "react-native-swiper@1.5.13",
   "_inBundle": false,
   "_integrity": "sha512-byBPx3qz3FvZhk4O8LR8am5SoO/pwm2Sj1OmFuXOOLYEj87+PzQaTr9u7+mgU76Ti2TP1OWnCPTXH6XUXYwxyw==",
   "_location": "/react-native-swiper",
   "_phantomChildren": {},
   "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "react-native-swiper",
+    "type": "git",
+    "raw": "react-native-swiper@git+https://github.com/SystangoTechnologiesInternal/strat-prd-react-native-swiper.git",
     "name": "react-native-swiper",
     "escapedName": "react-native-swiper",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
+    "rawSpec": "git+https://github.com/SystangoTechnologiesInternal/strat-prd-react-native-swiper.git",
+    "saveSpec": "git+https://github.com/SystangoTechnologiesInternal/strat-prd-react-native-swiper.git",
+    "fetchSpec": "https://github.com/SystangoTechnologiesInternal/strat-prd-react-native-swiper.git",
+    "gitCommittish": null
   },
   "_requiredBy": [
-    "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-swiper/-/react-native-swiper-1.5.13.tgz",
+  "_resolved": "git+https://github.com/SystangoTechnologiesInternal/strat-prd-react-native-swiper.git#fd08e32aeb41091fe37893a47456b8a82cad5de3",
   "_shasum": "fa695cd4ab77b9a9df2d2bfee38ea7274dd07a2e",
-  "_spec": "react-native-swiper",
-  "_where": "/Users/stplmacmini15/Documents/Projects/listDemo",
+  "_spec": "react-native-swiper@git+https://github.com/SystangoTechnologiesInternal/strat-prd-react-native-swiper.git",
+  "_where": "/Users/sgo4/Projects/PredictorApp",
   "author": "",
   "ava": {
     "babel": "inherit",
